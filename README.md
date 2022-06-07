@@ -19,3 +19,4 @@ This project consists of a Jupyter Notebook which has all the necessary function
 >> Resnet101
 >> VGG16 etc
 
+The Dataset I have used is given by FlixStock.
